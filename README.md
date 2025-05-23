@@ -36,14 +36,12 @@ Start the FastAPI server using uvicorn:
 
 ```
 uvicorn src.serving.api.app:app --host 0.0.0.0 --port 8000
-
 ```
 
 Test the API with your own data using the provided shell script:
 
 ```
 ./test_api.sh
-
 ```
 
 ### Running Kafka for Streaming
@@ -56,7 +54,6 @@ zookeeper-server-start.sh config/zookeeper.properties
 
 # Start Kafka broker
 kafka-server-start.sh config/server.properties
-
 ```
 Run the Kafka producer and consumer scripts located in `src/serving/kafka`:
 
@@ -77,7 +74,6 @@ docker build -t loan-risk-prediction .
 Run the container exposing port 8000:
 ```
 docker run -p 8000:8000 loan-risk-prediction
-
 ```
 
 This will launch the FastAPI server inside the container, making the loan risk prediction API accessible.
