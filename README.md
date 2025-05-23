@@ -1,6 +1,8 @@
 # Loan risk prediction
 
-![](credit.png)
+<p align="center">
+  <img src="credit.png"/>
+</p>
 
 ## Overview
 
