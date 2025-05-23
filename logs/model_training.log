@@ -1,0 +1,325 @@
+2025-05-12 18:01:48,773 - INFO - Starting the training pipeline.
+2025-05-12 18:01:48,773 - INFO - Starting model training with LightGBM.
+2025-05-12 18:01:48,773 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-12 18:01:49,616 - INFO - Model training completed successfully.
+2025-05-12 18:01:49,616 - INFO - Model training completed successfully.
+2025-05-12 18:01:49,709 - INFO - Prediction completed successfully.
+2025-05-12 18:01:49,709 - INFO - Starting model evaluation.
+2025-05-12 18:01:49,717 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 18:01:49,717 - INFO - Model evaluation completed successfully.
+2025-05-12 18:01:49,717 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 18:01:49,717 - INFO - Training pipeline finished successfully.
+2025-05-12 18:03:30,128 - INFO - Starting the training pipeline.
+2025-05-12 18:03:30,128 - INFO - Starting model training with LightGBM.
+2025-05-12 18:03:30,128 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-12 18:03:30,869 - INFO - Model training completed successfully.
+2025-05-12 18:03:30,869 - INFO - Model training completed successfully.
+2025-05-12 18:03:30,952 - INFO - Prediction completed successfully.
+2025-05-12 18:03:30,952 - INFO - Starting model evaluation.
+2025-05-12 18:03:30,959 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 18:03:30,959 - INFO - Model evaluation completed successfully.
+2025-05-12 18:03:30,959 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 18:03:30,959 - INFO - Training pipeline finished successfully.
+2025-05-12 18:04:37,900 - INFO - Starting the training pipeline.
+2025-05-12 18:04:37,900 - INFO - Starting model training with LightGBM.
+2025-05-12 18:04:37,900 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-12 18:04:38,655 - INFO - Model training completed successfully.
+2025-05-12 18:04:38,655 - INFO - Model training completed successfully.
+2025-05-12 18:04:38,737 - INFO - Prediction completed successfully.
+2025-05-12 18:04:38,737 - INFO - Starting model evaluation.
+2025-05-12 18:04:38,744 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 18:04:38,744 - INFO - Model evaluation completed successfully.
+2025-05-12 18:04:38,744 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 18:04:38,744 - INFO - Training pipeline finished successfully.
+2025-05-12 18:07:52,024 - INFO - Starting the training pipeline.
+2025-05-12 18:07:52,024 - INFO - Starting model training with LightGBM.
+2025-05-12 18:07:52,025 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-12 18:07:52,785 - INFO - Model training completed successfully.
+2025-05-12 18:07:52,785 - INFO - Model training completed successfully.
+2025-05-12 18:07:52,866 - INFO - Prediction completed successfully.
+2025-05-12 18:07:52,866 - INFO - Starting model evaluation.
+2025-05-12 18:07:52,874 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 18:07:52,874 - INFO - Model evaluation completed successfully.
+2025-05-12 18:07:52,874 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 18:07:52,874 - INFO - Training pipeline finished successfully.
+2025-05-12 18:11:17,188 - INFO - Starting the training pipeline.
+2025-05-12 18:11:17,188 - INFO - Starting model training with LightGBM.
+2025-05-12 18:11:17,188 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-12 18:11:18,006 - INFO - Model training completed successfully.
+2025-05-12 18:11:18,006 - INFO - Model training completed successfully.
+2025-05-12 18:11:18,087 - INFO - Prediction completed successfully.
+2025-05-12 18:11:18,087 - INFO - Starting model evaluation.
+2025-05-12 18:11:18,094 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 18:11:18,094 - INFO - Model evaluation completed successfully.
+2025-05-12 18:11:18,094 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 18:11:18,094 - INFO - Training pipeline finished successfully.
+2025-05-12 18:15:33,148 - INFO - Starting the training pipeline.
+2025-05-12 18:15:33,148 - INFO - Starting model training with LightGBM.
+2025-05-12 18:15:33,148 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-12 18:15:33,890 - INFO - Model training completed successfully.
+2025-05-12 18:15:33,890 - INFO - Model training completed successfully.
+2025-05-12 18:15:33,971 - INFO - Prediction completed successfully.
+2025-05-12 18:15:33,971 - INFO - Starting model evaluation.
+2025-05-12 18:15:33,978 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 18:15:33,978 - INFO - Model evaluation completed successfully.
+2025-05-12 18:15:33,978 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 18:15:33,978 - INFO - Training pipeline finished successfully.
+2025-05-12 21:45:17,594 - INFO - Starting the training pipeline.
+2025-05-12 21:45:17,594 - INFO - Starting model training with LightGBM.
+2025-05-12 21:45:17,594 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-12 21:45:18,323 - INFO - Model training completed successfully.
+2025-05-12 21:45:18,323 - INFO - Model training completed successfully.
+2025-05-12 21:45:18,406 - INFO - Prediction completed successfully.
+2025-05-12 21:45:18,407 - INFO - Starting model evaluation.
+2025-05-12 21:45:18,414 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 21:45:18,414 - INFO - Model evaluation completed successfully.
+2025-05-12 21:45:18,414 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 21:45:18,414 - INFO - Training pipeline finished successfully.
+2025-05-12 21:53:29,744 - INFO - Starting the training pipeline.
+2025-05-12 21:53:29,744 - INFO - Starting model training with LightGBM.
+2025-05-12 21:53:29,744 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-12 21:53:30,479 - INFO - Model training completed successfully.
+2025-05-12 21:53:30,480 - INFO - Model training completed successfully.
+2025-05-12 21:53:30,562 - INFO - Prediction completed successfully.
+2025-05-12 21:53:30,567 - INFO - Starting model evaluation.
+2025-05-12 21:53:30,574 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 21:53:30,574 - INFO - Model evaluation completed successfully.
+2025-05-12 21:53:30,574 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 21:53:30,574 - INFO - Training pipeline finished successfully.
+2025-05-12 22:05:58,579 - INFO - Starting the training pipeline.
+2025-05-12 22:05:58,579 - INFO - Starting model training with LightGBM.
+2025-05-12 22:05:58,579 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-12 22:05:59,307 - INFO - Model training completed successfully.
+2025-05-12 22:05:59,307 - INFO - Model training completed successfully.
+2025-05-12 22:05:59,388 - INFO - Prediction completed successfully.
+2025-05-12 22:05:59,388 - INFO - Starting model evaluation.
+2025-05-12 22:05:59,396 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 22:05:59,396 - INFO - Model evaluation completed successfully.
+2025-05-12 22:05:59,396 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 22:05:59,396 - INFO - Training pipeline finished successfully.
+2025-05-12 22:06:39,942 - INFO - Starting the training pipeline.
+2025-05-12 22:06:39,943 - INFO - Starting model training with LightGBM.
+2025-05-12 22:06:39,943 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-12 22:06:40,674 - INFO - Model training completed successfully.
+2025-05-12 22:06:40,675 - INFO - Model training completed successfully.
+2025-05-12 22:06:40,762 - INFO - Prediction completed successfully.
+2025-05-12 22:06:40,762 - INFO - Starting model evaluation.
+2025-05-12 22:06:40,769 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 22:06:40,769 - INFO - Model evaluation completed successfully.
+2025-05-12 22:06:40,770 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 22:06:40,770 - INFO - Training pipeline finished successfully.
+2025-05-12 22:12:17,446 - INFO - Starting the training pipeline.
+2025-05-12 22:12:17,447 - INFO - Starting model training with LightGBM.
+2025-05-12 22:12:17,447 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-12 22:12:18,309 - INFO - Model training completed successfully.
+2025-05-12 22:12:18,309 - INFO - Model training completed successfully.
+2025-05-12 22:12:18,438 - INFO - Prediction completed successfully.
+2025-05-12 22:12:18,438 - INFO - Starting model evaluation.
+2025-05-12 22:12:18,452 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 22:12:18,452 - INFO - Model evaluation completed successfully.
+2025-05-12 22:12:18,452 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 22:12:18,453 - INFO - Training pipeline finished successfully.
+2025-05-12 22:13:50,624 - INFO - Starting the training pipeline.
+2025-05-12 22:13:50,624 - INFO - Starting model training with LightGBM.
+2025-05-12 22:13:50,624 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-12 22:13:51,410 - INFO - Model training completed successfully.
+2025-05-12 22:13:51,410 - INFO - Model training completed successfully.
+2025-05-12 22:13:51,493 - INFO - Prediction completed successfully.
+2025-05-12 22:13:51,493 - INFO - Starting model evaluation.
+2025-05-12 22:13:51,500 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 22:13:51,500 - INFO - Model evaluation completed successfully.
+2025-05-12 22:13:51,500 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-12 22:13:51,500 - INFO - Training pipeline finished successfully.
+2025-05-13 16:07:22,628 - INFO - Starting the training pipeline.
+2025-05-13 16:07:22,628 - INFO - Starting model training with LightGBM.
+2025-05-13 16:07:22,628 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-13 16:07:23,372 - INFO - Model training completed successfully.
+2025-05-13 16:07:23,372 - INFO - Model training completed successfully.
+2025-05-13 16:07:23,454 - INFO - Prediction completed successfully.
+2025-05-13 16:07:23,454 - INFO - Starting model evaluation.
+2025-05-13 16:07:23,463 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-13 16:07:23,463 - INFO - Model evaluation completed successfully.
+2025-05-13 16:07:23,463 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-13 16:07:23,463 - INFO - Training pipeline finished successfully.
+2025-05-13 16:09:31,273 - INFO - Starting the training pipeline.
+2025-05-13 16:09:31,274 - INFO - Starting model training with LightGBM.
+2025-05-13 16:09:31,274 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-13 16:09:32,010 - INFO - Model training completed successfully.
+2025-05-13 16:09:32,010 - INFO - Model training completed successfully.
+2025-05-13 16:09:32,092 - INFO - Prediction completed successfully.
+2025-05-13 16:09:32,092 - INFO - Starting model evaluation.
+2025-05-13 16:09:32,099 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-13 16:09:32,099 - INFO - Model evaluation completed successfully.
+2025-05-13 16:09:32,099 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-13 16:09:32,100 - INFO - Training pipeline finished successfully.
+2025-05-13 16:11:34,521 - INFO - Starting the training pipeline.
+2025-05-13 16:11:34,521 - INFO - Starting model training with LightGBM.
+2025-05-13 16:11:34,521 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-13 16:11:35,259 - INFO - Model training completed successfully.
+2025-05-13 16:11:35,259 - INFO - Model training completed successfully.
+2025-05-13 16:11:35,340 - INFO - Prediction completed successfully.
+2025-05-13 16:11:35,340 - INFO - Starting model evaluation.
+2025-05-13 16:11:35,347 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-13 16:11:35,348 - INFO - Model evaluation completed successfully.
+2025-05-13 16:11:35,348 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-13 16:11:35,348 - INFO - Training pipeline finished successfully.
+2025-05-13 16:13:53,382 - INFO - Starting the training pipeline.
+2025-05-13 16:13:53,383 - INFO - Starting model training with LightGBM.
+2025-05-13 16:13:53,383 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-13 16:13:54,105 - INFO - Model training completed successfully.
+2025-05-13 16:13:54,105 - INFO - Model training completed successfully.
+2025-05-13 16:13:54,187 - INFO - Prediction completed successfully.
+2025-05-13 16:13:54,187 - INFO - Starting model evaluation.
+2025-05-13 16:13:54,195 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-13 16:13:54,195 - INFO - Model evaluation completed successfully.
+2025-05-13 16:13:54,195 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-13 16:13:54,195 - INFO - Training pipeline finished successfully.
+2025-05-13 16:14:09,031 - INFO - Starting the training pipeline.
+2025-05-13 16:14:09,031 - INFO - Starting model training with LightGBM.
+2025-05-13 16:14:09,031 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-13 16:14:09,760 - INFO - Model training completed successfully.
+2025-05-13 16:14:09,760 - INFO - Model training completed successfully.
+2025-05-13 16:14:09,842 - INFO - Prediction completed successfully.
+2025-05-13 16:14:09,842 - INFO - Starting model evaluation.
+2025-05-13 16:14:09,849 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-13 16:14:09,849 - INFO - Model evaluation completed successfully.
+2025-05-13 16:14:09,849 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-13 16:14:09,849 - INFO - Training pipeline finished successfully.
+2025-05-22 18:07:05,831 - INFO - Starting the training pipeline.
+2025-05-22 18:07:05,831 - INFO - Starting model training with LightGBM.
+2025-05-22 18:07:05,831 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-22 18:07:06,178 - INFO - Model training completed successfully.
+2025-05-22 18:07:06,178 - INFO - Model training completed successfully.
+2025-05-22 18:07:06,212 - INFO - Prediction completed successfully.
+2025-05-22 18:07:06,212 - INFO - Starting model evaluation.
+2025-05-22 18:07:06,220 - INFO - Evaluation metrics: {'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'f1_score': 1.0, 'roc_auc': 1.0, 'confusion_matrix': array([[1773,    0],
+       [   0, 1772]])}
+2025-05-22 18:07:06,220 - INFO - Model evaluation completed successfully.
+2025-05-22 18:07:06,220 - INFO - Model evaluation metrics: {'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'f1_score': 1.0, 'roc_auc': 1.0, 'confusion_matrix': array([[1773,    0],
+       [   0, 1772]])}
+2025-05-22 18:07:06,220 - INFO - Training pipeline finished successfully.
+2025-05-22 18:11:31,894 - INFO - Starting the training pipeline.
+2025-05-22 18:11:31,894 - INFO - Starting model training with LightGBM.
+2025-05-22 18:11:31,894 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-22 18:11:32,618 - INFO - Model training completed successfully.
+2025-05-22 18:11:32,619 - INFO - Model training completed successfully.
+2025-05-22 18:11:32,699 - INFO - Prediction completed successfully.
+2025-05-22 18:11:32,699 - INFO - Starting model evaluation.
+2025-05-22 18:11:32,707 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-22 18:11:32,707 - INFO - Model evaluation completed successfully.
+2025-05-22 18:11:32,707 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-22 18:11:32,707 - INFO - Training pipeline finished successfully.
+2025-05-22 18:17:24,366 - INFO - Starting the training pipeline.
+2025-05-22 18:17:24,366 - INFO - Starting model training with LightGBM.
+2025-05-22 18:17:24,366 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-22 18:17:25,102 - INFO - Model training completed successfully.
+2025-05-22 18:17:25,102 - INFO - Model training completed successfully.
+2025-05-22 18:17:25,184 - INFO - Prediction completed successfully.
+2025-05-22 18:17:25,184 - INFO - Starting model evaluation.
+2025-05-22 18:17:25,191 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-22 18:17:25,191 - INFO - Model evaluation completed successfully.
+2025-05-22 18:17:25,192 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-22 18:17:25,192 - INFO - Training pipeline finished successfully.
+2025-05-22 18:26:32,175 - INFO - Starting the training pipeline.
+2025-05-22 18:26:32,175 - INFO - Starting model training with LightGBM.
+2025-05-22 18:26:32,175 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-22 18:26:32,938 - INFO - Model training completed successfully.
+2025-05-22 18:26:32,938 - INFO - Model training completed successfully.
+2025-05-22 18:26:33,020 - INFO - Prediction completed successfully.
+2025-05-22 18:26:33,020 - INFO - Starting model evaluation.
+2025-05-22 18:26:33,028 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-22 18:26:33,028 - INFO - Model evaluation completed successfully.
+2025-05-22 18:26:33,028 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-22 18:26:33,028 - INFO - Training pipeline finished successfully.
+2025-05-22 18:36:18,436 - INFO - Starting the training pipeline.
+2025-05-22 18:36:18,436 - INFO - Starting model training with LightGBM.
+2025-05-22 18:36:18,436 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-22 18:36:19,221 - INFO - Model training completed successfully.
+2025-05-22 18:36:19,222 - INFO - Model training completed successfully.
+2025-05-22 18:36:19,303 - INFO - Prediction completed successfully.
+2025-05-22 18:36:19,303 - INFO - Starting model evaluation.
+2025-05-22 18:36:19,312 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-22 18:36:19,312 - INFO - Model evaluation completed successfully.
+2025-05-22 18:36:19,312 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-22 18:36:19,312 - INFO - Training pipeline finished successfully.
+2025-05-22 18:50:35,800 - INFO - Starting the training pipeline.
+2025-05-22 18:50:35,800 - INFO - Starting model training with LightGBM.
+2025-05-22 18:50:35,800 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-22 18:50:36,586 - INFO - Model training completed successfully.
+2025-05-22 18:50:36,586 - INFO - Model training completed successfully.
+2025-05-22 18:50:36,667 - INFO - Prediction completed successfully.
+2025-05-22 18:50:36,667 - INFO - Starting model evaluation.
+2025-05-22 18:50:36,675 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-22 18:50:36,675 - INFO - Model evaluation completed successfully.
+2025-05-22 18:50:36,675 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-22 18:50:36,675 - INFO - Training pipeline finished successfully.
+2025-05-23 18:38:14,334 - INFO - Starting the training pipeline.
+2025-05-23 18:38:14,335 - INFO - Starting model training with LightGBM.
+2025-05-23 18:38:14,335 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-23 18:38:14,973 - INFO - Model training completed successfully.
+2025-05-23 18:38:14,973 - INFO - Model training completed successfully.
+2025-05-23 18:38:15,056 - INFO - Prediction completed successfully.
+2025-05-23 18:38:15,056 - INFO - Starting model evaluation.
+2025-05-23 18:38:15,065 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-23 18:38:15,065 - INFO - Model evaluation completed successfully.
+2025-05-23 18:38:15,065 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-23 18:38:15,065 - INFO - Training pipeline finished successfully.
+2025-05-23 18:40:59,769 - INFO - Starting the training pipeline.
+2025-05-23 18:40:59,769 - INFO - Starting model training with LightGBM.
+2025-05-23 18:40:59,769 - INFO - Training parameters: {'colsample_bytree': 0.5031218620922489, 'learning_rate': 0.06384479388929988, 'max_depth': -1, 'n_estimators': 997, 'num_leaves': 55, 'subsample': 0.7001865038379447}
+2025-05-23 18:41:00,503 - INFO - Model training completed successfully.
+2025-05-23 18:41:00,503 - INFO - Model training completed successfully.
+2025-05-23 18:41:00,584 - INFO - Prediction completed successfully.
+2025-05-23 18:41:00,584 - INFO - Starting model evaluation.
+2025-05-23 18:41:00,591 - INFO - Evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-23 18:41:00,592 - INFO - Model evaluation completed successfully.
+2025-05-23 18:41:00,592 - INFO - Model evaluation metrics: {'accuracy': 0.8665726375176305, 'precision': 0.9006785934608267, 'recall': 0.8239277652370203, 'f1_score': 0.860595343353964, 'roc_auc': 0.9406284256320352, 'confusion_matrix': array([[1612,  161],
+       [ 312, 1460]])}
+2025-05-23 18:41:00,592 - INFO - Training pipeline finished successfully.

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747936240718
+current_stage: None
+description: null
+last_updated_timestamp: 1747936240718
+name: LoanStatusModel
+run_id: 8ce67bb8db5145c49760b14153ae486c
+run_link: null
+source: file:///home/ayoub/Desktop/new_project/deployment/mlflow/mlruns/0/8ce67bb8db5145c49760b14153ae486c/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/ayoub/Desktop/new_project/deployment/mlflow/mlruns/0/8ce67bb8db5145c49760b14153ae486c/artifacts/model
+user_id: null
+version: 1

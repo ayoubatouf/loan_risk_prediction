@@ -1,0 +1,8 @@
+{
+    "num_leaves": {"type": "Integer", "low": 31, "high": 128},
+    "learning_rate": {"type": "Real", "low": 0.01, "high": 0.2, "prior": "log-uniform"},
+    "n_estimators": {"type": "Integer", "low": 100, "high": 1000},
+    "max_depth": {"type": "Integer", "low": -1, "high": 12},
+    "subsample": {"type": "Real", "low": 0.5, "high": 1.0},
+    "colsample_bytree": {"type": "Real", "low": 0.5, "high": 1.0}
+}

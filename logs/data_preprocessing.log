@@ -1,0 +1,1331 @@
+2025-05-12 18:01:47,459 - INFO - Starting data pipeline with input: /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-12 18:01:47,516 - INFO - Data loaded successfully.
+2025-05-12 18:01:47,516 - INFO - Starting data preprocessing in 'train' mode.
+2025-05-12 18:01:47,536 - INFO - Handled missing values for 'person_emp_length' and 'loan_int_rate'.
+2025-05-12 18:01:47,542 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-12 18:01:47,548 - INFO - Encoded 'loan_grade'.
+2025-05-12 18:01:47,550 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-12 18:01:47,558 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-12 18:01:47,559 - INFO - Saved feature list to /home/ayoub/Desktop/new_project/data/processed/features.pkl.
+2025-05-12 18:01:47,559 - INFO - Starting data balancing with undersampling.
+2025-05-12 18:01:47,576 - INFO - Data balancing completed.
+2025-05-12 18:01:47,577 - INFO - Data preprocessing completed successfully.
+2025-05-12 18:01:47,577 - INFO - Data preprocessing completed.
+2025-05-12 18:01:47,577 - INFO - Starting data split and scaling.
+2025-05-12 18:01:47,616 - INFO - Data split and scaling completed.
+2025-05-12 18:01:47,616 - INFO - Data split and scaling completed.
+2025-05-12 18:01:47,616 - INFO - Data pipeline finished successfully.
+2025-05-12 18:01:50,770 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-12 18:01:50,771 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-12 18:01:50,771 - INFO - Encoded 'loan_grade'.
+2025-05-12 18:01:50,772 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-12 18:01:50,774 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-12 18:01:50,774 - INFO - Aligned inference data with training feature set.
+2025-05-12 18:01:50,774 - INFO - Data preprocessing completed successfully.
+2025-05-12 18:03:28,849 - INFO - Starting data pipeline with input: /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-12 18:03:28,890 - INFO - Data loaded successfully.
+2025-05-12 18:03:28,890 - INFO - Starting data preprocessing in 'train' mode.
+2025-05-12 18:03:28,909 - INFO - Handled missing values for 'person_emp_length' and 'loan_int_rate'.
+2025-05-12 18:03:28,914 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-12 18:03:28,918 - INFO - Encoded 'loan_grade'.
+2025-05-12 18:03:28,919 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-12 18:03:28,925 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-12 18:03:28,927 - INFO - Saved feature list to /home/ayoub/Desktop/new_project/data/processed/features.pkl.
+2025-05-12 18:03:28,928 - INFO - Starting data balancing with undersampling.
+2025-05-12 18:03:28,937 - INFO - Data balancing completed.
+2025-05-12 18:03:28,938 - INFO - Data preprocessing completed successfully.
+2025-05-12 18:03:28,938 - INFO - Data preprocessing completed.
+2025-05-12 18:03:28,938 - INFO - Starting data split and scaling.
+2025-05-12 18:03:28,953 - INFO - Data split and scaling completed.
+2025-05-12 18:03:28,953 - INFO - Data split and scaling completed.
+2025-05-12 18:03:28,953 - INFO - Data pipeline finished successfully.
+2025-05-12 18:03:32,010 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-12 18:03:32,011 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-12 18:03:32,011 - INFO - Encoded 'loan_grade'.
+2025-05-12 18:03:32,012 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-12 18:03:32,013 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-12 18:03:32,014 - INFO - Aligned inference data with training feature set.
+2025-05-12 18:03:32,014 - INFO - Data preprocessing completed successfully.
+2025-05-12 18:04:36,679 - INFO - Starting data pipeline with input: /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-12 18:04:36,744 - INFO - Data loaded successfully.
+2025-05-12 18:04:36,744 - INFO - Starting data preprocessing in 'train' mode.
+2025-05-12 18:04:36,764 - INFO - Handled missing values for 'person_emp_length' and 'loan_int_rate'.
+2025-05-12 18:04:36,767 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-12 18:04:36,774 - INFO - Encoded 'loan_grade'.
+2025-05-12 18:04:36,777 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-12 18:04:36,794 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-12 18:04:36,795 - INFO - Saved feature list to /home/ayoub/Desktop/new_project/data/processed/features.pkl.
+2025-05-12 18:04:36,795 - INFO - Starting data balancing with undersampling.
+2025-05-12 18:04:36,808 - INFO - Data balancing completed.
+2025-05-12 18:04:36,809 - INFO - Data preprocessing completed successfully.
+2025-05-12 18:04:36,809 - INFO - Data preprocessing completed.
+2025-05-12 18:04:36,809 - INFO - Starting data split and scaling.
+2025-05-12 18:04:36,823 - INFO - Data split and scaling completed.
+2025-05-12 18:04:36,823 - INFO - Data split and scaling completed.
+2025-05-12 18:04:36,823 - INFO - Data pipeline finished successfully.
+2025-05-12 18:04:39,812 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-12 18:04:39,813 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-12 18:04:39,814 - INFO - Encoded 'loan_grade'.
+2025-05-12 18:04:39,814 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-12 18:04:39,817 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-12 18:04:39,818 - INFO - Aligned inference data with training feature set.
+2025-05-12 18:04:39,818 - INFO - Data preprocessing completed successfully.
+2025-05-12 18:07:50,833 - INFO - Starting data pipeline with input: /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-12 18:07:50,837 - INFO - File preview loaded for validation from /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-12 18:07:50,839 - INFO - Data validation passed.
+2025-05-12 18:07:50,863 - INFO - Data loaded successfully from /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv.
+2025-05-12 18:07:50,863 - INFO - Data loaded successfully.
+2025-05-12 18:07:50,863 - INFO - Starting data preprocessing in 'train' mode.
+2025-05-12 18:07:50,873 - INFO - Handled missing values for 'person_emp_length' and 'loan_int_rate'.
+2025-05-12 18:07:50,876 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-12 18:07:50,879 - INFO - Encoded 'loan_grade'.
+2025-05-12 18:07:50,880 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-12 18:07:50,884 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-12 18:07:50,884 - INFO - Saved feature list to /home/ayoub/Desktop/new_project/data/processed/features.pkl.
+2025-05-12 18:07:50,885 - INFO - Starting data balancing with undersampling.
+2025-05-12 18:07:50,893 - INFO - Data balancing completed.
+2025-05-12 18:07:50,894 - INFO - Data preprocessing completed successfully.
+2025-05-12 18:07:50,894 - INFO - Data preprocessing completed.
+2025-05-12 18:07:50,895 - INFO - Starting data split and scaling.
+2025-05-12 18:07:50,915 - INFO - Data split and scaling completed.
+2025-05-12 18:07:50,915 - INFO - Data split and scaling completed.
+2025-05-12 18:07:50,915 - INFO - Data pipeline finished successfully.
+2025-05-12 18:07:53,917 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-12 18:07:53,917 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-12 18:07:53,918 - INFO - Encoded 'loan_grade'.
+2025-05-12 18:07:53,918 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-12 18:07:53,920 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-12 18:07:53,921 - INFO - Aligned inference data with training feature set.
+2025-05-12 18:07:53,921 - INFO - Data preprocessing completed successfully.
+2025-05-12 18:11:16,032 - INFO - Starting data pipeline with input: /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-12 18:11:16,036 - INFO - File preview loaded for validation from /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-12 18:11:16,037 - INFO - Data validation passed.
+2025-05-12 18:11:16,065 - INFO - Data loaded successfully from /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv.
+2025-05-12 18:11:16,065 - INFO - Data loaded successfully.
+2025-05-12 18:11:16,065 - INFO - Starting data preprocessing in 'train' mode.
+2025-05-12 18:11:16,076 - INFO - Handled missing values for 'person_emp_length' and 'loan_int_rate'.
+2025-05-12 18:11:16,078 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-12 18:11:16,081 - INFO - Encoded 'loan_grade'.
+2025-05-12 18:11:16,082 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-12 18:11:16,088 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-12 18:11:16,088 - INFO - Saved feature list to /home/ayoub/Desktop/new_project/data/processed/features.pkl.
+2025-05-12 18:11:16,088 - INFO - Starting data balancing with undersampling.
+2025-05-12 18:11:16,095 - INFO - Data balancing completed.
+2025-05-12 18:11:16,095 - INFO - Data preprocessing completed successfully.
+2025-05-12 18:11:16,096 - INFO - Data preprocessing completed.
+2025-05-12 18:11:16,096 - INFO - Starting data split and scaling.
+2025-05-12 18:11:16,108 - INFO - Data split and scaling completed.
+2025-05-12 18:11:16,108 - INFO - Data split and scaling completed.
+2025-05-12 18:11:16,108 - INFO - Data pipeline finished successfully.
+2025-05-12 18:11:19,141 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-12 18:11:19,142 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-12 18:11:19,143 - INFO - Encoded 'loan_grade'.
+2025-05-12 18:11:19,143 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-12 18:11:19,145 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-12 18:11:19,146 - INFO - Aligned inference data with training feature set.
+2025-05-12 18:11:19,146 - INFO - Data preprocessing completed successfully.
+2025-05-12 18:15:31,500 - INFO - Starting data pipeline with input: /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-12 18:15:31,509 - INFO - File preview loaded for validation from /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-12 18:15:31,511 - INFO - Data validation passed.
+2025-05-12 18:15:31,547 - INFO - Data loaded successfully from /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv.
+2025-05-12 18:15:31,548 - INFO - Data loaded successfully.
+2025-05-12 18:15:31,548 - INFO - Starting data preprocessing in 'train' mode.
+2025-05-12 18:15:31,563 - INFO - Handled missing values for 'person_emp_length' and 'loan_int_rate'.
+2025-05-12 18:15:31,565 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-12 18:15:31,570 - INFO - Encoded 'loan_grade'.
+2025-05-12 18:15:31,574 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-12 18:15:31,580 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-12 18:15:31,580 - INFO - Saved feature list to /home/ayoub/Desktop/new_project/data/processed/features.pkl.
+2025-05-12 18:15:31,580 - INFO - Starting data balancing with undersampling.
+2025-05-12 18:15:31,595 - INFO - Data balancing completed.
+2025-05-12 18:15:31,595 - INFO - Data preprocessing completed successfully.
+2025-05-12 18:15:31,596 - INFO - Data preprocessing completed.
+2025-05-12 18:15:31,596 - INFO - Starting data split and scaling.
+2025-05-12 18:15:31,614 - INFO - Data split and scaling completed.
+2025-05-12 18:15:31,615 - INFO - Data split and scaling completed.
+2025-05-12 18:15:31,615 - INFO - Data pipeline finished successfully.
+2025-05-12 18:15:35,009 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-12 18:15:35,010 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-12 18:15:35,011 - INFO - Encoded 'loan_grade'.
+2025-05-12 18:15:35,011 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-12 18:15:35,013 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-12 18:15:35,013 - INFO - Aligned inference data with training feature set.
+2025-05-12 18:15:35,013 - INFO - Data preprocessing completed successfully.
+2025-05-12 18:31:05,612 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-12 18:31:05,613 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-12 18:31:05,613 - INFO - Encoded 'loan_grade'.
+2025-05-12 18:31:05,614 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-12 18:31:05,615 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-12 18:31:05,617 - INFO - Aligned inference data with training feature set.
+2025-05-12 18:31:05,617 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:23:58,627 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:23:58,628 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:23:58,628 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:23:58,629 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:23:58,630 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:23:58,632 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:23:58,632 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:23:59,604 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:23:59,605 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:23:59,606 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:23:59,606 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:23:59,608 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:23:59,611 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:23:59,612 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:00,604 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:00,606 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:00,606 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:00,607 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:00,608 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:00,612 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:00,612 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:01,605 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:01,606 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:01,607 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:01,608 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:01,609 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:01,611 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:01,611 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:02,603 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:02,604 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:02,604 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:02,605 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:02,606 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:02,608 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:02,608 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:03,607 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:03,613 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:03,614 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:03,615 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:03,618 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:03,621 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:03,621 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:04,607 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:04,609 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:04,610 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:04,611 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:04,612 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:04,616 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:04,616 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:05,608 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:05,610 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:05,611 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:05,612 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:05,613 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:05,614 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:05,614 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:06,609 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:06,611 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:06,612 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:06,612 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:06,614 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:06,617 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:06,618 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:07,609 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:07,611 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:07,612 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:07,613 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:07,616 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:07,619 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:07,620 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:08,611 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:08,618 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:08,619 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:08,620 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:08,622 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:08,624 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:08,624 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:09,612 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:09,613 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:09,614 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:09,615 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:09,616 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:09,618 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:09,618 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:10,612 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:10,614 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:10,614 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:10,615 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:10,616 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:10,617 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:10,617 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:11,613 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:11,615 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:11,615 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:11,616 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:11,618 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:11,621 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:11,622 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:12,614 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:12,615 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:12,616 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:12,617 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:12,618 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:12,619 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:12,619 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:13,614 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:13,621 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:13,622 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:13,623 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:13,626 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:13,629 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:13,629 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:14,615 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:14,617 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:14,618 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:14,618 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:14,619 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:14,622 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:14,622 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:15,616 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:15,618 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:15,618 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:15,619 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:15,621 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:15,622 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:15,622 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:16,617 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:16,619 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:16,620 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:16,620 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:16,621 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:16,624 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:16,624 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:17,617 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:17,619 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:17,619 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:17,621 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:17,624 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:17,627 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:17,627 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:18,619 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:18,620 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:18,621 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:18,621 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:18,622 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:18,623 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:18,623 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:19,619 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:19,620 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:19,621 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:19,622 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:19,625 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:19,628 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:19,628 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:20,619 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:20,621 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:20,621 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:20,622 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:20,623 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:20,625 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:20,625 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:21,620 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:21,622 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:21,622 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:21,623 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:21,624 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:21,626 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:21,626 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:22,618 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:22,619 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:22,619 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:22,620 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:22,621 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:22,622 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:22,622 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:23,622 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:23,629 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:23,630 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:23,631 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:23,636 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:23,639 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:23,639 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:24,622 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:24,624 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:24,625 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:24,627 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:24,630 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:24,634 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:24,634 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:25,623 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:25,625 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:25,625 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:25,627 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:25,628 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:25,630 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:25,630 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:26,624 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:26,625 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:26,626 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:26,627 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:26,628 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:26,629 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:26,630 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:27,625 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:27,626 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:27,627 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:27,628 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:27,631 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:27,634 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:27,634 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:28,626 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:28,632 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:28,633 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:28,634 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:28,635 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:28,637 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:28,637 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:29,625 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:29,627 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:29,630 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:29,634 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:29,637 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:29,639 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:29,639 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:30,626 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:30,630 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:30,633 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:30,635 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:30,639 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:30,640 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:30,640 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:31,626 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:31,631 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:31,635 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:31,638 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:31,641 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:31,644 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:31,644 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:32,627 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:32,633 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:32,635 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:32,638 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:32,639 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:32,641 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:32,641 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:33,627 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:33,632 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:33,635 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:33,638 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:33,640 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:33,641 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:33,642 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:34,631 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:34,636 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:34,637 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:34,638 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:34,640 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:34,642 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:34,642 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:35,630 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:35,636 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:35,638 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:35,639 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:35,641 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:35,643 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:35,643 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:36,631 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:36,636 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:36,638 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:36,640 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:36,643 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:36,650 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:36,650 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:37,652 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:37,657 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:37,661 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:37,665 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:37,671 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:37,673 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:37,674 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:38,640 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:38,647 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:38,650 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:38,654 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:38,657 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:38,660 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:38,661 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:39,641 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:39,642 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:39,642 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:39,643 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:39,645 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:39,650 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:39,651 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:40,642 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:40,643 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:40,644 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:40,645 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:40,654 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:40,656 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:40,657 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:41,642 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:41,643 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:41,643 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:41,644 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:41,646 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:41,654 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:41,655 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:42,643 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:42,645 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:42,645 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:42,646 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:42,655 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:42,657 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:42,657 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:43,644 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:43,645 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:43,646 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:43,647 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:43,655 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:43,656 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:43,657 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:44,645 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:44,646 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:44,647 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:44,649 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:44,658 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:44,659 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:44,659 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:45,645 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:45,647 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:45,647 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:45,649 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:45,657 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:45,659 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:45,659 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:46,646 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:46,647 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:46,648 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:46,649 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:46,656 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:46,659 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:46,659 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:47,645 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:47,646 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:47,646 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:47,647 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:47,649 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:47,658 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:47,658 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:48,647 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:48,649 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:48,652 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:48,656 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:48,660 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:48,661 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:48,661 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:49,648 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:49,656 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:49,657 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:49,658 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:49,660 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:49,661 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:49,661 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:50,649 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:50,654 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:50,657 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:50,660 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:50,662 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:50,664 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:50,664 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:51,650 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:51,655 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:51,659 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:51,661 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:51,663 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:51,664 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:51,664 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:52,650 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:52,657 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:52,658 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:52,660 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:52,662 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:52,663 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:52,663 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:53,649 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:53,650 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:53,650 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:53,651 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:53,659 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:53,661 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:53,661 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:54,658 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:54,661 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:54,662 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:54,663 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:54,665 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:54,667 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:54,667 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:55,650 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:55,650 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:55,651 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:55,651 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:55,661 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:55,662 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:55,662 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:56,658 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:56,662 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:56,662 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:56,663 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:56,665 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:56,667 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:56,667 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:57,652 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:57,660 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:57,662 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:57,664 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:57,666 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:57,668 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:57,668 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:58,654 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:58,660 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:58,662 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:58,663 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:58,664 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:58,666 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:58,666 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:24:59,661 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:24:59,663 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:24:59,664 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:24:59,664 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:24:59,666 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:24:59,667 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:24:59,667 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:00,659 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:00,661 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:00,662 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:00,663 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:00,665 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:00,666 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:00,666 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:01,658 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:01,660 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:01,661 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:01,662 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:01,665 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:01,667 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:01,667 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:02,664 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:02,665 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:02,665 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:02,666 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:02,668 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:02,669 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:02,669 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:03,667 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:03,668 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:03,669 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:03,670 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:03,680 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:03,684 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:03,684 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:04,666 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:04,668 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:04,668 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:04,670 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:04,680 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:04,685 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:04,685 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:05,665 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:05,667 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:05,667 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:05,668 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:05,669 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:05,676 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:05,677 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:06,666 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:06,668 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:06,668 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:06,669 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:06,676 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:06,681 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:06,681 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:07,675 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:07,680 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:07,681 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:07,684 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:07,696 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:07,700 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:07,700 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:08,672 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:08,681 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:08,683 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:08,686 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:08,699 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:08,703 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:08,703 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:09,691 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:09,697 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:09,700 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:09,702 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:09,705 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:09,714 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:09,715 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:10,688 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:10,700 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:10,706 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:10,715 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:10,740 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:10,766 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:10,768 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:11,681 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:11,682 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:11,683 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:11,684 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:11,686 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:11,687 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:11,687 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:12,670 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:12,672 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:12,675 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:12,679 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:12,684 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:12,688 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:12,688 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:13,671 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:13,673 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:13,677 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:13,680 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:13,683 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:13,685 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:13,685 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:14,671 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:14,674 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:14,677 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:14,681 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:14,684 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:14,685 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:14,685 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:15,676 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:15,684 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:15,686 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:15,687 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:15,690 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:15,695 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:15,696 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:16,670 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:16,671 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:16,671 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:16,671 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:16,672 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:16,681 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:16,681 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:17,689 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:17,700 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:17,703 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:17,708 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:17,728 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:17,754 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:17,756 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:18,687 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:18,689 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:18,690 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:18,694 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:18,702 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:18,705 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:18,705 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:19,687 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:19,689 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:19,690 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:19,695 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:19,702 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:19,705 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:19,705 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:20,686 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:20,687 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:20,688 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:20,689 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:20,695 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:20,700 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:20,700 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:21,688 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:21,689 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:21,689 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:21,690 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:21,699 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:21,702 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:21,702 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:22,688 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:22,689 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:22,689 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:22,690 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:22,699 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:22,702 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:22,702 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:23,688 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:23,689 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:23,690 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:23,691 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:23,699 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:23,702 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:23,702 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:24,687 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:24,688 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:24,688 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:24,689 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:24,690 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:24,691 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:24,691 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:25,690 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:25,692 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:25,697 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:25,700 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:25,703 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:25,704 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:25,705 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:26,690 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:26,692 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:26,693 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:26,699 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:26,703 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:26,704 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:26,704 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:27,690 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:27,692 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:27,692 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:27,699 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:27,703 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:27,705 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:27,705 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:28,691 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:28,692 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:28,695 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:28,700 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:28,703 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:28,705 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:28,705 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:29,692 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:29,702 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:29,703 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:29,704 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:29,705 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:29,707 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:29,707 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:30,691 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:30,692 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:30,693 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:30,700 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:30,705 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:30,706 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:30,707 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:31,700 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:31,704 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:31,705 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:31,705 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:31,707 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:31,708 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:31,708 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:32,699 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:32,703 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:32,704 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:32,706 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:32,708 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:32,710 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:32,710 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:33,701 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:33,705 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:33,706 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:33,706 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:33,708 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:33,709 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:33,709 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:34,702 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:34,709 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:34,709 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:34,710 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:34,720 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:34,723 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:34,723 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:35,703 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:35,705 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:35,706 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:35,706 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:35,708 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:35,710 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:35,710 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:36,702 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:36,705 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:36,705 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:36,706 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:36,707 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:36,708 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:36,708 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:37,704 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:37,706 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:37,707 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:37,709 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:37,719 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:37,723 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:37,724 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:38,707 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:38,707 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:38,708 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:38,708 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:38,709 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:38,711 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:38,711 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:39,707 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:39,708 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:39,709 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:39,710 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:39,717 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:39,722 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:39,722 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:40,706 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:40,708 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:40,708 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:40,710 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:40,716 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:40,718 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:40,718 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:41,708 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:41,709 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:41,709 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:41,710 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:41,713 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:41,719 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:41,719 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:42,704 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:42,707 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:42,707 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:42,708 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:42,710 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:42,711 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:42,711 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:43,706 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:43,707 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:43,707 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:43,707 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:43,709 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:43,710 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:43,710 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:44,709 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:44,711 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:44,712 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:44,716 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:44,723 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:44,729 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:44,729 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:45,710 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:45,711 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:45,712 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:45,713 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:45,720 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:45,723 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:45,723 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:46,710 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:46,711 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:46,712 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:46,716 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:46,721 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:46,724 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:46,724 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:47,711 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:47,712 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:47,713 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:47,719 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:47,722 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:47,724 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:47,725 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:48,709 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:48,709 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:48,709 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:48,710 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:48,711 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:48,712 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:48,712 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:49,709 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:49,710 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:49,711 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:49,711 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:49,712 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:49,719 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:49,720 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:50,709 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:50,710 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:50,711 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:50,711 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:50,713 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:50,720 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:50,720 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:51,711 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:51,711 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:51,712 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:51,712 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:51,714 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:51,720 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:51,720 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:52,711 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:52,711 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:52,711 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:52,712 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:52,713 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:52,718 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:52,718 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:53,714 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:53,719 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:53,720 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:53,722 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:53,725 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:53,727 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:53,727 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:54,718 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:54,721 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:54,721 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:54,726 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:54,731 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:54,740 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:54,740 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:55,712 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:55,713 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:55,713 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:55,713 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:55,715 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:55,722 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:55,722 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:56,716 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:56,721 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:56,722 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:56,724 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:56,726 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:56,728 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:56,728 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:57,714 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:57,715 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:57,716 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:57,721 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:57,724 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:57,726 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:57,726 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:58,722 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:58,724 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:58,725 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:58,726 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:58,729 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:58,730 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:58,731 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:25:59,719 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:25:59,721 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:25:59,721 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:25:59,721 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:25:59,722 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:25:59,724 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:25:59,724 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:26:00,720 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:26:00,722 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:26:00,723 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:26:00,724 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:26:00,725 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:26:00,726 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:26:00,726 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:26:01,726 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:26:01,727 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:26:01,728 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:26:01,728 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:26:01,730 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:26:01,731 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:26:01,731 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:26:02,725 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:26:02,726 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:26:02,727 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:26:02,729 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:26:02,732 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:26:02,735 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:26:02,735 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:26:03,727 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:26:03,729 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:26:03,729 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:26:03,730 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:26:03,732 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:26:03,736 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:26:03,737 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:26:04,727 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:26:04,729 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:26:04,730 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:26:04,730 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:26:04,732 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:26:04,734 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:26:04,734 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:26:05,728 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:26:05,728 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:26:05,729 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:26:05,729 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:26:05,730 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:26:05,731 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:26:05,732 - INFO - Data preprocessing completed successfully.
+2025-05-13 15:26:06,728 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 15:26:06,730 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 15:26:06,730 - INFO - Encoded 'loan_grade'.
+2025-05-13 15:26:06,731 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 15:26:06,735 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 15:26:06,741 - INFO - Aligned inference data with training feature set.
+2025-05-13 15:26:06,741 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:07:21,006 - INFO - Starting data pipeline with input: /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-13 16:07:21,007 - ERROR - Schema file not found: schema.json
+2025-05-13 16:07:21,007 - ERROR - Failed to load data from /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv: Schema file not found: schema.json
+2025-05-13 16:07:21,007 - ERROR - Error in data pipeline: Schema file not found: schema.json
+Traceback (most recent call last):
+  File "/home/ayoub/Desktop/new_project/src/pipelines/data_pipeline.py", line 10, in run_data_pipeline
+    df = load_data(data_path)
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ayoub/Desktop/new_project/src/data/loading_data.py", line 63, in load_data
+    if validate_data(file_path, schema_path):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ayoub/Desktop/new_project/src/data/loading_data.py", line 22, in validate_data
+    expected_schema = load_expected_schema(schema_path)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ayoub/Desktop/new_project/src/data/loading_data.py", line 12, in load_expected_schema
+    raise FileNotFoundError(f"Schema file not found: {schema_path}")
+FileNotFoundError: Schema file not found: schema.json
+2025-05-13 16:09:29,845 - INFO - Starting data pipeline with input: /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-13 16:09:29,845 - ERROR - Schema file not found: src/data/schema.json
+2025-05-13 16:09:29,845 - ERROR - Failed to load data from /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv: Schema file not found: src/data/schema.json
+2025-05-13 16:09:29,845 - ERROR - Error in data pipeline: Schema file not found: src/data/schema.json
+Traceback (most recent call last):
+  File "/home/ayoub/Desktop/new_project/src/pipelines/data_pipeline.py", line 10, in run_data_pipeline
+    df = load_data(data_path)
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ayoub/Desktop/new_project/src/data/loading_data.py", line 63, in load_data
+    if validate_data(file_path, schema_path):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ayoub/Desktop/new_project/src/data/loading_data.py", line 22, in validate_data
+    expected_schema = load_expected_schema(schema_path)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ayoub/Desktop/new_project/src/data/loading_data.py", line 12, in load_expected_schema
+    raise FileNotFoundError(f"Schema file not found: {schema_path}")
+FileNotFoundError: Schema file not found: src/data/schema.json
+2025-05-13 16:11:32,537 - INFO - Starting data pipeline with input: /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-13 16:11:32,537 - INFO - Expected schema loaded successfully.
+2025-05-13 16:11:32,541 - INFO - File preview loaded for validation from /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-13 16:11:32,542 - INFO - Data validation passed.
+2025-05-13 16:11:32,564 - INFO - Data loaded successfully from /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv.
+2025-05-13 16:11:32,564 - INFO - Data loaded successfully.
+2025-05-13 16:11:32,564 - INFO - Starting data preprocessing in 'train' mode.
+2025-05-13 16:11:32,575 - INFO - Handled missing values for 'person_emp_length' and 'loan_int_rate'.
+2025-05-13 16:11:32,576 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:11:32,579 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:11:32,580 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:11:32,585 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:11:32,585 - INFO - Saved feature list to /home/ayoub/Desktop/new_project/src/features/features.pkl.
+2025-05-13 16:11:32,585 - INFO - Starting data balancing with undersampling.
+2025-05-13 16:11:32,592 - INFO - Data balancing completed.
+2025-05-13 16:11:32,592 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:11:32,593 - INFO - Data preprocessing completed.
+2025-05-13 16:11:32,593 - INFO - Starting data split and scaling.
+2025-05-13 16:11:32,605 - INFO - Data split and scaling completed.
+2025-05-13 16:11:32,605 - INFO - Data split and scaling completed.
+2025-05-13 16:11:32,606 - INFO - Data pipeline finished successfully.
+2025-05-13 16:11:37,251 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 16:11:37,252 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:11:37,253 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:11:37,253 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:11:37,255 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:11:37,256 - INFO - Aligned inference data with training feature set.
+2025-05-13 16:11:37,256 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:13:51,954 - INFO - Starting data pipeline with input: /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-13 16:13:51,954 - ERROR - Schema file not found: /home/ayoub/Desktop/new_project/src/data/data/schema.json
+2025-05-13 16:13:51,954 - ERROR - Failed to load data from /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv: Schema file not found: /home/ayoub/Desktop/new_project/src/data/data/schema.json
+2025-05-13 16:13:51,954 - ERROR - Error in data pipeline: Schema file not found: /home/ayoub/Desktop/new_project/src/data/data/schema.json
+Traceback (most recent call last):
+  File "/home/ayoub/Desktop/new_project/src/pipelines/data_pipeline.py", line 10, in run_data_pipeline
+    df = load_data(data_path)
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ayoub/Desktop/new_project/src/data/loading_data.py", line 64, in load_data
+    if validate_data(file_path, schema_path):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ayoub/Desktop/new_project/src/data/loading_data.py", line 23, in validate_data
+    expected_schema = load_expected_schema(schema_path)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ayoub/Desktop/new_project/src/data/loading_data.py", line 13, in load_expected_schema
+    raise FileNotFoundError(f"Schema file not found: {schema_path}")
+FileNotFoundError: Schema file not found: /home/ayoub/Desktop/new_project/src/data/data/schema.json
+2025-05-13 16:13:56,069 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 16:13:56,070 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:13:56,071 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:13:56,071 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:13:56,073 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:13:56,073 - INFO - Aligned inference data with training feature set.
+2025-05-13 16:13:56,074 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:14:07,477 - INFO - Starting data pipeline with input: /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-13 16:14:07,477 - INFO - Expected schema loaded successfully.
+2025-05-13 16:14:07,481 - INFO - File preview loaded for validation from /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv
+2025-05-13 16:14:07,482 - INFO - Data validation passed.
+2025-05-13 16:14:07,506 - INFO - Data loaded successfully from /home/ayoub/Desktop/new_project/data/raw/credit_risk_dataset.csv.
+2025-05-13 16:14:07,506 - INFO - Data loaded successfully.
+2025-05-13 16:14:07,506 - INFO - Starting data preprocessing in 'train' mode.
+2025-05-13 16:14:07,516 - INFO - Handled missing values for 'person_emp_length' and 'loan_int_rate'.
+2025-05-13 16:14:07,517 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:14:07,520 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:14:07,521 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:14:07,526 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:14:07,526 - INFO - Saved feature list to /home/ayoub/Desktop/new_project/src/features/features.pkl.
+2025-05-13 16:14:07,526 - INFO - Starting data balancing with undersampling.
+2025-05-13 16:14:07,534 - INFO - Data balancing completed.
+2025-05-13 16:14:07,534 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:14:07,534 - INFO - Data preprocessing completed.
+2025-05-13 16:14:07,534 - INFO - Starting data split and scaling.
+2025-05-13 16:14:07,547 - INFO - Data split and scaling completed.
+2025-05-13 16:14:07,547 - INFO - Data split and scaling completed.
+2025-05-13 16:14:07,547 - INFO - Data pipeline finished successfully.
+2025-05-13 16:14:11,728 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 16:14:11,729 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:14:11,730 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:14:11,730 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:14:11,732 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:14:11,732 - INFO - Aligned inference data with training feature set.
+2025-05-13 16:14:11,733 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:16:07,650 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 16:16:07,651 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:16:07,652 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:16:07,652 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:16:07,654 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:16:07,655 - INFO - Aligned inference data with training feature set.
+2025-05-13 16:16:07,655 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:20:01,470 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 16:20:01,471 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:20:01,471 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:20:01,472 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:20:01,475 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:20:01,477 - INFO - Aligned inference data with training feature set.
+2025-05-13 16:20:01,477 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:25:03,833 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 16:25:03,835 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:25:03,835 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:25:03,836 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:25:03,838 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:25:03,840 - INFO - Aligned inference data with training feature set.
+2025-05-13 16:25:03,840 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:27:30,585 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 16:27:30,586 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:27:30,586 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:27:30,586 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:27:30,588 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:27:30,589 - INFO - Aligned inference data with training feature set.
+2025-05-13 16:27:30,589 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:28:05,631 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 16:28:05,632 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:28:05,633 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:28:05,633 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:28:05,635 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:28:05,636 - INFO - Aligned inference data with training feature set.
+2025-05-13 16:28:05,636 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:28:18,896 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 16:28:18,897 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:28:18,897 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:28:18,897 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:28:18,899 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:28:18,900 - INFO - Aligned inference data with training feature set.
+2025-05-13 16:28:18,900 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:31:42,760 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 16:31:42,761 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:31:42,762 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:31:42,762 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:31:42,769 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:31:42,771 - INFO - Aligned inference data with training feature set.
+2025-05-13 16:31:42,771 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:32:33,935 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 16:32:33,936 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:32:33,937 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:32:33,937 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:32:33,938 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:32:33,945 - INFO - Aligned inference data with training feature set.
+2025-05-13 16:32:33,945 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:33:17,358 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 16:33:17,359 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:33:17,359 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:33:17,360 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:33:17,361 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:33:17,362 - INFO - Aligned inference data with training feature set.
+2025-05-13 16:33:17,362 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:34:08,510 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 16:34:08,511 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:34:08,513 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:34:08,516 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:34:08,518 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:34:08,519 - INFO - Aligned inference data with training feature set.
+2025-05-13 16:34:08,520 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:36:24,240 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 16:36:24,240 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:36:24,241 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:36:24,241 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:36:24,242 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:36:24,244 - INFO - Aligned inference data with training feature set.
+2025-05-13 16:36:24,244 - INFO - Data preprocessing completed successfully.
+2025-05-13 16:37:27,179 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 16:37:27,179 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 16:37:27,180 - INFO - Encoded 'loan_grade'.
+2025-05-13 16:37:27,180 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 16:37:27,181 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 16:37:27,183 - INFO - Aligned inference data with training feature set.
+2025-05-13 16:37:27,183 - INFO - Data preprocessing completed successfully.
+2025-05-13 17:22:28,080 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 17:22:28,082 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 17:22:28,083 - INFO - Encoded 'loan_grade'.
+2025-05-13 17:22:28,084 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 17:22:28,085 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 17:22:28,088 - INFO - Aligned inference data with training feature set.
+2025-05-13 17:22:28,088 - INFO - Data preprocessing completed successfully.
+2025-05-13 17:37:14,296 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-13 17:37:14,298 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-13 17:37:14,299 - INFO - Encoded 'loan_grade'.
+2025-05-13 17:37:14,300 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-13 17:37:14,302 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-13 17:37:14,304 - INFO - Aligned inference data with training feature set.
+2025-05-13 17:37:14,304 - INFO - Data preprocessing completed successfully.
+2025-05-23 18:38:12,308 - INFO - Starting data pipeline with input: /home/ayoub/Desktop/loan_risk_prediction/data/raw/credit_risk_dataset.csv
+2025-05-23 18:38:12,309 - INFO - Expected schema loaded successfully.
+2025-05-23 18:38:12,313 - INFO - File preview loaded for validation from /home/ayoub/Desktop/loan_risk_prediction/data/raw/credit_risk_dataset.csv
+2025-05-23 18:38:12,314 - INFO - Data validation passed.
+2025-05-23 18:38:12,340 - INFO - Data loaded successfully from /home/ayoub/Desktop/loan_risk_prediction/data/raw/credit_risk_dataset.csv.
+2025-05-23 18:38:12,340 - INFO - Data loaded successfully.
+2025-05-23 18:38:12,340 - INFO - Starting data preprocessing in 'train' mode.
+2025-05-23 18:38:12,349 - INFO - Handled missing values for 'person_emp_length' and 'loan_int_rate'.
+2025-05-23 18:38:12,351 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-23 18:38:12,354 - INFO - Encoded 'loan_grade'.
+2025-05-23 18:38:12,355 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-23 18:38:12,360 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-23 18:38:12,360 - INFO - Saved feature list to /home/ayoub/Desktop/loan_risk_prediction/src/features/features.pkl.
+2025-05-23 18:38:12,360 - INFO - Starting data balancing with undersampling.
+2025-05-23 18:38:12,367 - INFO - Data balancing completed.
+2025-05-23 18:38:12,368 - INFO - Data preprocessing completed successfully.
+2025-05-23 18:38:12,368 - INFO - Data preprocessing completed.
+2025-05-23 18:38:12,368 - INFO - Starting data split and scaling.
+2025-05-23 18:38:12,380 - INFO - Data split and scaling completed.
+2025-05-23 18:38:12,380 - INFO - Data split and scaling completed.
+2025-05-23 18:38:12,380 - INFO - Data pipeline finished successfully.
+2025-05-23 18:38:17,178 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-23 18:38:17,179 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-23 18:38:17,180 - INFO - Encoded 'loan_grade'.
+2025-05-23 18:38:17,181 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-23 18:38:17,182 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-23 18:38:17,183 - INFO - Aligned inference data with training feature set.
+2025-05-23 18:38:17,183 - INFO - Data preprocessing completed successfully.
+2025-05-23 18:40:58,295 - INFO - Starting data pipeline with input: /home/ayoub/Desktop/loan_risk_prediction/data/raw/credit_risk_dataset.csv
+2025-05-23 18:40:58,296 - INFO - Expected schema loaded successfully.
+2025-05-23 18:40:58,299 - INFO - File preview loaded for validation from /home/ayoub/Desktop/loan_risk_prediction/data/raw/credit_risk_dataset.csv
+2025-05-23 18:40:58,300 - INFO - Data validation passed.
+2025-05-23 18:40:58,322 - INFO - Data loaded successfully from /home/ayoub/Desktop/loan_risk_prediction/data/raw/credit_risk_dataset.csv.
+2025-05-23 18:40:58,322 - INFO - Data loaded successfully.
+2025-05-23 18:40:58,322 - INFO - Starting data preprocessing in 'train' mode.
+2025-05-23 18:40:58,333 - INFO - Handled missing values for 'person_emp_length' and 'loan_int_rate'.
+2025-05-23 18:40:58,335 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-23 18:40:58,338 - INFO - Encoded 'loan_grade'.
+2025-05-23 18:40:58,339 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-23 18:40:58,344 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-23 18:40:58,344 - INFO - Saved feature list to /home/ayoub/Desktop/loan_risk_prediction/src/features/features.pkl.
+2025-05-23 18:40:58,344 - INFO - Starting data balancing with undersampling.
+2025-05-23 18:40:58,351 - INFO - Data balancing completed.
+2025-05-23 18:40:58,351 - INFO - Data preprocessing completed successfully.
+2025-05-23 18:40:58,352 - INFO - Data preprocessing completed.
+2025-05-23 18:40:58,352 - INFO - Starting data split and scaling.
+2025-05-23 18:40:58,363 - INFO - Data split and scaling completed.
+2025-05-23 18:40:58,364 - INFO - Data split and scaling completed.
+2025-05-23 18:40:58,364 - INFO - Data pipeline finished successfully.
+2025-05-23 18:41:02,572 - INFO - Starting data preprocessing in 'inference' mode.
+2025-05-23 18:41:02,573 - INFO - Mapped 'person_home_ownership' categories.
+2025-05-23 18:41:02,573 - INFO - Encoded 'loan_grade'.
+2025-05-23 18:41:02,574 - INFO - Mapped 'cb_person_default_on_file' values.
+2025-05-23 18:41:02,576 - INFO - Applied one-hot encoding to 'loan_intent'.
+2025-05-23 18:41:02,576 - INFO - Aligned inference data with training feature set.
+2025-05-23 18:41:02,576 - INFO - Data preprocessing completed successfully.

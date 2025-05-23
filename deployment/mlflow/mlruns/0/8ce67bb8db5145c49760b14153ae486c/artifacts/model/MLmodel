@@ -1,0 +1,45 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 6039973
+model_uuid: c3cf7039706e427ebe96b01ecfe4b24c
+prompts: null
+run_id: 8ce67bb8db5145c49760b14153ae486c
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "person_age", "required": true}, {"type": "double",
+    "name": "person_income", "required": true}, {"type": "double", "name": "person_home_ownership",
+    "required": true}, {"type": "double", "name": "person_emp_length", "required":
+    true}, {"type": "double", "name": "loan_grade", "required": true}, {"type": "double",
+    "name": "loan_amnt", "required": true}, {"type": "double", "name": "loan_int_rate",
+    "required": true}, {"type": "double", "name": "loan_percent_income", "required":
+    true}, {"type": "double", "name": "cb_person_default_on_file", "required": true},
+    {"type": "double", "name": "cb_person_cred_hist_length", "required": true}, {"type":
+    "double", "name": "loan_intent_DEBTCONSOLIDATION", "required": true}, {"type":
+    "double", "name": "loan_intent_EDUCATION", "required": true}, {"type": "double",
+    "name": "loan_intent_HOMEIMPROVEMENT", "required": true}, {"type": "double", "name":
+    "loan_intent_MEDICAL", "required": true}, {"type": "double", "name": "loan_intent_PERSONAL",
+    "required": true}, {"type": "double", "name": "loan_intent_VENTURE", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-05-22 17:50:37.720048'
